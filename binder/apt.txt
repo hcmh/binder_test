@@ -4,3 +4,6 @@ libfftw3-dev
 liblapacke-dev
 libpng-dev
 libopenblas-dev
+python3-numpy
+python3-matplotlib
+python3-scipy
