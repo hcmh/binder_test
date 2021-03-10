@@ -41,7 +41,7 @@ class mapping_piecewise(object):
         for x in range(0, max_dim[0] ):       
             for y in range(0, max_dim[1]):
                     
-                    print( "Pixel: ("+str(x)+", "+str(y)+")" )
+#                    print( "Pixel: ("+str(x)+", "+str(y)+")" )
                     
                     signal = data[x, y, 0:nf]
                     
